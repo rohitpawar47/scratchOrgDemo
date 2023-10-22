@@ -1,7 +1,10 @@
 {
-  "orgName": "rohitpawar company",
+  "orgName": "Scratch Org Demo",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "adminEmail": "rohitpawar.skills@gmail.com",
+  "description": "This Org was created for Scratch Org Demo",
+  "hasSampleData": true,
+  "features": [],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
